@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SNPPPAPP</string>
+    <string name="sign_up_name_str">Enter Name</string>
+    <string name="sign_up_email_str">Enter Email</string>
+    <string name="sign_up_password_str">Enter Password</string>
+    <string name="sign_up_btn_str">Sign Up</string>
+    <string name="sign_up_already_register_txt_str">Already registered? Login Here!</string>
+    <string name="login_btn_str">Login</string>
+    <string name="login_forgot_password_txt_str">Forgot Password?</string>
+    <string name="login_register_btn_str">Register Now</string>
+    <string name="forgot_password_email_str">Enter Your Email</string>
+    <string name="forgot_password_btn_str">Send Email</string>
+    <string name="forgot_title">Forgot Your Password?</string>
+    <string name="forgot_instruction">To reset password, Enter your Email, press the button below and check Email to follow instruction.</string>
+    <string name="authenticate_btn_str">Send Verification Email</string>
+    <string name="authenticate_phone_str">Enter Phone Number</string>
+    <string name="authenticate_phone_btn_str">Send Verification Code</string>
+    <string name="edit_number_str">Enter Phone Number</string>
+    <string name="edit_btn_str">Save Changes</string>
+    <string name="edit_select_picture_str">Select Display Picture</string>
+    <string name="instruction_firebase">Real-Time Database  uses real-time processing to handle workloads whose state is constantly changing. This allows other user to access data instantaneously as the data is uploaded by any user.</string>
+    <string name="instruction_data_collection">Gathering information about Products by scanning bar-code and a]other attributes of the Product. For Classification of Markets Products available at different Location.</string>
+    <string name="instruction_map">To Get the exact location of the market and to know the near by market ,also to ensure the physical presence of Field Staff.</string>
+    <string name="instruction_map_title">Real Time Location Mapping</string>
+    <string name="instruction_firebase_title">Real Time Database</string>
+    <string name="instruction_data_collection_title">Data Collection</string>
+    <string name="online_title_str">Online User</string>
+    <string name="data_form_str"><![CDATA[Location & Time Stamp will be Recorded]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/side_nav_main" android:checkableBehavior="single">
+        <item
+            android:id="@+id/side_nav_add_product"
+            android:icon="@drawable/ic_add_product"
+            android:title="Add Product"/>
+        <item
+            android:id="@+id/side_nav_profile"
+            android:icon="@drawable/ic_profile_tab"
+            android:title="Profile"/>
+        <item
+            android:id="@+id/side_nav_analysis"
+            android:icon="@drawable/ic_analysis_tab"
+            android:title="Analysis"/>
+        <item
+            android:id="@+id/side_nav_history"
+            android:icon="@drawable/ic_history_tab"
+            android:title="History"/>
+        <item
+            android:id="@+id/side_nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="Share Data"/>
+    </group>
+    <group android:id="@+id/side_nav_work" android:checkableBehavior="single">
+        <item
+            android:id="@+id/side_nav_authenticate"
+            android:icon="@drawable/ic_authenticate"
+            android:title="Authenticate Your Account"/>
+        <item
+            android:id="@+id/side_nav_faq"
+            android:icon="@drawable/ic_faq"
+            android:title="FAQ"/>
+    </group>
+    <group android:id="@+id/side_nav_exit" android:checkableBehavior="single">
+        <item
+            android:id="@+id/side_nav_setting"
+            android:icon="@drawable/ic_setting"
+            android:title="Setting"/>
+        <item
+            android:id="@+id/side_nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout"/>
+    </group>
+
+
+</menu>
